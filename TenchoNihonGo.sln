@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TenchoNihonGo", "TenchoNihonGo\TenchoNihonGo.csproj", "{0F0AF66A-465F-4B39-B5C0-6B5CDB467C30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F0AF66A-465F-4B39-B5C0-6B5CDB467C30}.Debug|x86.ActiveCfg = Debug|x86
+		{0F0AF66A-465F-4B39-B5C0-6B5CDB467C30}.Debug|x86.Build.0 = Debug|x86
+		{0F0AF66A-465F-4B39-B5C0-6B5CDB467C30}.Release|x86.ActiveCfg = Release|x86
+		{0F0AF66A-465F-4B39-B5C0-6B5CDB467C30}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {207D2501-DEC8-4F40-B74D-C32A08628665}
+	EndGlobalSection
+EndGlobal
